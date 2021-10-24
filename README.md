@@ -1,3 +1,3 @@
-1. Program, simply shuffles the deck and lets the user draw a card random.
-2. Further, I want to work on this and develop a three-card game.
-3. Three-card game is closely associated with poker, where triple ace is the highest combo, followed by other triples (K-2), then doubler runs, runs, color, pairs and finally the highest in order.
+1. Program is intended to help friends/family split checks in resturant or a walmart setting, where they pay everything in bulk.
+2. In the end, rechecks if the values have been entered correctly with an if statement.
+3. Plans to develep it into a program that results in something like, "Bob owes Jane $5", for that oop might be essential.
